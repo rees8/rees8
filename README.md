@@ -71,10 +71,8 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>
@@ -85,8 +83,32 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rees8&show_icons=true&theme=transparent)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rees8&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rees8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rees8&theme=tokyonight">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rees8&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rees8&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rees8&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rees8&theme=tokyonight&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=rees8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=rees8&theme=tokyonight">
+</div><br>
 <!--GitHub Stats section ends-->
+
+<!--Trophy section starts-->
+---
+
+### 🏆 Trophies:
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=rees8&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
+</div>
+<!--Trophy section ends-->
+
+<!--Badges section starts-->
+---
+
+### 🏅 Holopin Badges:
+
+[![An image of @rees8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rees8)](https://holopin.io/@rees8)  
+
+<!--Badges section ends-->
