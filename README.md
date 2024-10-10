@@ -107,7 +107,7 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
 <!--Badges section starts-->
 ---
 
-### 🏅 Holopin Badges Board:
+### 🏅 Holopin Board:
 
 [![An image of @rees8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rees8)](https://holopin.io/@rees8)  
 
