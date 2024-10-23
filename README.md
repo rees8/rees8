@@ -108,8 +108,25 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
 <!--Badges section starts-->
 ---
 
+### 🏅 Certification Badges:
+
+<div style='display:flex; align-items:center; gap:10px;' align='center'>
+  <img src="https://github.com/user-attachments/assets/286e59a3-5d56-458a-8499-ed936c195568" alt="aws-certified-cloud-practitioner" width="200px" height="200px">
+  <img src="https://github.com/user-attachments/assets/486370df-2a75-4c84-b0d1-efa158f89a96" alt="postman-api-fundamentals-student-expert" width="200px" height="200px">
+</div>
+
+---
+
+### 🏅 GSSoC'24-Extended Badges:
+
+<div style='display:flex; align-items:center; gap:10px;' align='center'>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="gssoc-explorer" width="200px" height="200px">  
+</div>
+
+---
+
 ### 🏅 Holopin Board:
 
-[![An image of @rees8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rees8)](https://holopin.io/@rees8)  
+[![An image of @rees8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rees8)](https://holopin.io/@rees8) 
 
 <!--Badges section ends-->
