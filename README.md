@@ -120,7 +120,11 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
 ### 🏅 GSSoC'24-Extended Badges:
 
 <div style='display:flex; align-items:center; gap:10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="gssoc-explorer" width="175px" height="175px">  
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="gssoc-explorer" width="175px" height="175px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="gssoc-adventurer" width="175px" height="175px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="gssoc-trailblazer" width="175px" height="175px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="gssoc-summit-seeker" width="175px" height="175px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="gssoc-champion" width="175px" height="175px">
 </div>
 
 ---
