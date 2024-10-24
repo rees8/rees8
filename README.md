@@ -111,8 +111,8 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
 ### 🏅 Certification Badges:
 
 <div style='display:flex; align-items:center; gap:10px;' align='center'>
-  <img src="https://github.com/user-attachments/assets/286e59a3-5d56-458a-8499-ed936c195568" alt="aws-certified-cloud-practitioner" width="175px" height="175px">
-  <img src="https://github.com/user-attachments/assets/486370df-2a75-4c84-b0d1-efa158f89a96" alt="postman-api-fundamentals-student-expert" width="175px" height="175px">
+  <img src="https://github.com/user-attachments/assets/286e59a3-5d56-458a-8499-ed936c195568" alt="aws-certified-cloud-practitioner" width="150px" height="150px">
+  <img src="https://github.com/user-attachments/assets/486370df-2a75-4c84-b0d1-efa158f89a96" alt="postman-api-fundamentals-student-expert" width="150px" height="150px">
 </div>
 
 ---
@@ -120,11 +120,11 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
 ### 🏅 GSSoC'24-Extended Badges:
 
 <div style='display:flex; align-items:center; gap:10px;' align='center'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="gssoc-explorer" width="175px" height="175px">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="gssoc-adventurer" width="175px" height="175px">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="gssoc-trailblazer" width="175px" height="175px">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="gssoc-summit-seeker" width="175px" height="175px">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="gssoc-champion" width="175px" height="175px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="gssoc-explorer" width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="gssoc-adventurer" width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="gssoc-trailblazer" width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="gssoc-summit-seeker" width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="gssoc-champion" width="150px" height="150px">
 </div>
 
 ---
