@@ -127,6 +127,7 @@ I'm Rhea, a recent Computer Science and Engineering graduate from India.
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="gssoc-trailblazer" width="150px" height="150px">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="gssoc-summit-seeker" width="150px" height="150px">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="gssoc-champion" width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="150px" height="150px" />
 </div>
 
 ---
